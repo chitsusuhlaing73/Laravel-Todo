@@ -1,0 +1,10 @@
+/******/ (() => { // webpackBootstrap
+var __webpack_exports__ = {};
+/*!**************************************!*\
+  !*** ./resources/js/auth/confirm.js ***!
+  \**************************************/
+function validate() {
+  return confirm('Do you really want to submit the form?');
+}
+/******/ })()
+;
